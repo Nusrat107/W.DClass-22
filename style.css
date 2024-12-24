@@ -13,6 +13,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow: hidden;
     
 }
 
@@ -32,3 +33,175 @@
    font-size: 35px !important;
    margin-left: 460px !important;
 }
+
+
+/* responsive */
+
+/* hero section */
+
+@media screen and (max-width: 1133px) {
+    .hero{
+        font-size: 60px;
+        margin-left: 210px;
+    }
+}
+
+@media screen and (max-width: 951px) {
+    .hero{
+        font-size: 50px;
+        margin-left: 210px;
+    }
+}
+
+@media screen and (max-width: 763px) {
+    .hero{
+        font-size: 40px;
+        margin-left: 180px;
+    }
+}
+
+@media screen and (max-width: 659px) {
+    .hero{
+        font-size: 35px;
+        margin-left: 150px;
+    }
+}
+@media screen and (max-width: 561px) {
+    .hero{
+        font-size: 30px;
+        margin-left: 130px;
+    }
+}
+@media screen and (max-width: 475px) {
+    .hero{
+        font-size: 25px;
+        margin-left: 90px;
+    }
+}
+@media screen and (max-width: 383px) {
+    .hero{
+        font-size: 20px;
+        margin-left: 85px;
+    }
+}
+@media screen and (max-width: 339px) {
+    .hero{
+        font-size: 20px;
+        margin-left: 80px;
+    }
+}
+
+/* hero section-1 */
+@media screen and (max-width: 1133px) {
+    .hero-1{
+        font-size: 50px;
+    
+    }
+}
+
+@media screen and (max-width: 951px) {
+    .hero-1{
+        font-size: 40px;
+    
+    }
+}
+
+@media screen and (max-width: 763px) {
+    .hero-1{
+        font-size: 35px;
+        
+    }
+}
+@media screen and (max-width: 659px) {
+    .hero-1{
+        font-size: 30px;
+        
+    }
+}
+@media screen and (max-width: 561px) {
+    .hero-1{
+        font-size: 25px;
+        
+    }
+}
+@media screen and (max-width: 475px) {
+    .hero-1{
+        font-size: 20px;
+        
+    }
+}
+@media screen and (max-width: 383px) {
+    .hero-1{
+        font-size: 18px;
+        
+    }
+}
+@media screen and (max-width: 339px) {
+    .hero-1{
+        font-size: 17px;
+        
+    }
+}
+
+
+/* button responsive */
+
+@media screen and (max-width: 1133px) {
+    .button{
+        font-size: 25px !important;
+        margin-left: 370px !important;
+    
+    }
+}
+
+@media screen and (max-width: 951px) {
+    .button{
+        font-size: 25px !important;
+        margin-left: 300px !important;
+    
+    }
+}
+
+@media screen and (max-width: 763px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 270px !important;
+    
+    }
+}
+@media screen and (max-width: 763px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 220px !important;
+    
+    }
+}
+@media screen and (max-width: 763px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 180px !important;
+    
+    }
+}
+@media screen and (max-width: 475px) {
+    .button{
+        font-size: 15px !important;
+        margin-left: 140px !important;
+    
+    }
+}
+@media screen and (max-width: 383px) {
+    .button{
+        font-size: 15px !important;
+        margin-left: 120px !important;
+    
+    }
+}
+@media screen and (max-width: 339px) {
+    .button{
+        font-size: 15px !important;
+        margin-left: 110px !important;
+    
+    }
+}
+
