@@ -18,21 +18,21 @@
 }
 
 .hero {
-    color: whitesmoke;
+    color: #B75D1C;
     font-size: 80px;
     margin-left: 200px;
 }
 
 .hero-1{
-    color: whitesmoke;
+    color: #B75D1C;
     font-size: 60px;
 }
 
 .button {
-    background-color: #F0D739;
+    background-color: #ECDF73;
    font-size: 35px !important;
-
-   margin-top: 270px !important;
+   margin-left: 460px !important;
+   
 }
 
 
