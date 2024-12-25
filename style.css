@@ -6,7 +6,7 @@
 
 
 .header-section {
-    background-image: url(image/pexels-photo-4134514.jpeg);
+    background-image: url(image/Modern\ Brown\ Indian\ Spices\ and\ Food\ Vlog\ YouTube\ Thumbnail.png);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -29,9 +29,10 @@
 }
 
 .button {
-    background-color: yellow;
+    background-color: #F0D739;
    font-size: 35px !important;
-   margin-left: 460px !important;
+
+   margin-top: 220px !important;
 }
 
 
