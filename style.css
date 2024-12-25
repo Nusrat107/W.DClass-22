@@ -57,7 +57,7 @@
 @media screen and (max-width: 763px) {
     .hero{
         font-size: 40px;
-        margin-left: 180px;
+        margin-left: 160px;
     }
 }
 
@@ -70,7 +70,7 @@
 @media screen and (max-width: 561px) {
     .hero{
         font-size: 30px;
-        margin-left: 130px;
+        margin-left: 110px;
     }
 }
 @media screen and (max-width: 475px) {
@@ -180,7 +180,21 @@
 @media screen and (max-width: 763px) {
     .button{
         font-size: 20px !important;
-        margin-left: 180px !important;
+        margin-left: 260px !important;
+    
+    }
+}
+@media screen and (max-width: 659px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 230px !important;
+    
+    }
+}
+@media screen and (max-width: 561px) {
+    .button{
+        font-size: 20px !important;
+        margin-left: 170px !important;
     
     }
 }
