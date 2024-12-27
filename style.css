@@ -36,6 +36,25 @@
 }
 
 
+.button:hover{
+    background-color :#EEBF1B;
+    color: black;
+    
+}
+
+.button-1 {
+    background-color: #ECDF73;
+    font-weight: bold !important;
+    font-size: 20px !important;
+   
+}
+
+.button-1:hover{
+    background-color :#EEBF1B;
+    color: black;
+    
+}
+
 /* responsive */
 
 /* hero section */
@@ -216,9 +235,10 @@
     .button{
         font-size: 15px !important;
         margin-left: 110px !important;
-    
+        transition: background-color 0.5s ease;
     }
 }
+
 
 /* card responsive */
 
