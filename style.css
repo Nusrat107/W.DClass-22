@@ -32,6 +32,8 @@
     background-color: #ECDF73;
    font-size: 35px !important;
    margin-left: 460px !important;
+   transition: 3s ease;
+
    
 }
 
@@ -46,7 +48,8 @@
     background-color: #ECDF73;
     font-weight: bold !important;
     font-size: 20px !important;
-   
+    transition: 3s ease;
+
 }
 
 .button-1:hover{
